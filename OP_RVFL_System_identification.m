@@ -17,9 +17,10 @@
 % contact e-mail: najdanvuk@gmail.com or nvukovic@mas.bg.ac.rs
 % =========================================================================
 % =========================================================================
-% Cite as: N. Vukovic, M.Petrovic, Z.Miljkovic, Orthogonal Polynomial
-% Expanded Random Vector Functional Link Neural Networks for Regression 
-% and Classification,Working paper.
+% Cite as: N. Vukovic, M.Petrovic, Z.Miljkovic, 
+% A comprehensive experimental evaluation of orthogonal polynomial expanded
+% random vector functional link neural networks for regression, 
+% accepted in Applied Soft Computing, https://doi.org/10.1016/j.asoc.2017.10.010.
 % =========================================================================
 % =========================================================================
 % This one tests OP-RVFL w/out direct link from  input layer (expanded in 
